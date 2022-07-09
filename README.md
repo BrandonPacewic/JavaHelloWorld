@@ -1,2 +1,10 @@
-# BlankTemplate
-A simple blank repo template
+# Java Hello World
+
+Simple hello world in java, as basic as it gets.
+
+## Running
+
+```Console
+javac main.java
+java HelloWorld
+```
